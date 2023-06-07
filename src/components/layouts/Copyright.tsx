@@ -16,7 +16,7 @@ const socialList = [
     icon: 'i-mdi-telegram',
     label: 'Telegram',
     href: 'https://t.me/ClokerTsang',
-  }  
+  },
   {
     type: 'blog',
     color: '#6435C9',
