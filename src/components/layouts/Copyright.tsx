@@ -7,14 +7,14 @@ const socialList = [
     type: 'github',
     color: 'inherit',
     icon: 'i-mdi-github',
-    label: 'GitHub: Pochinki98',
+    label: 'GitHub: @Pochinki98',
     href: 'https://github.com/Pochinki98',
   },
   {
     type: 'telegram',
     color: '#1da1f2',
     icon: 'i-mdi-telegram',
-    label: 'Telegram',
+    label: 'Telegram：@ClokerTsang',
     href: 'https://t.me/ClokerTsang',
   },
   {
